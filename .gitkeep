@@ -1,0 +1,7 @@
+touch archetypes/.gitkeep
+touch content/.gitkeep
+touch layouts/.gitkeep
+touch static/.gitkeep
+touch data/.gitkeep
+git ca -m 'Adding folders'
+git up
