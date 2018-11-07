@@ -6,3 +6,51 @@
 footer.footer-dark .footer-logo img {
     height: 60px;
 }
+
+html {
+    background-color: rgba(248, 181, 0, 0.01);
+}
+
+.button.primary-btn {
+    background-color: #00adb5;
+    border-color: #00adb5;
+}
+
+.button.secondary-btn {
+    background-color: #f8b500;
+    border-color: #f8b500;
+}
+
+.button.button.accent-btn {
+    background-color: #fc3c3c;
+    border-color: #fc3c3c;
+}
+
+.divider {
+    background-color: #f8b500;
+}
+
+.navbar.is-fresh .navbar-item.is-secondary:hover {
+    color: #f8b500 !important;
+}
+
+.section.section-secondary {
+    background-color: #f8b500;
+}
+
+footer.footer-dark {
+    background-color: #393e46;
+    color: #fff4e0;
+}
+
+footer.footer-dark .footer-column ul.link-list a {
+    color: #74787f;
+}
+
+footer.footer-dark .footer-column ul.link-list :hover {
+    color: #fff4e0 !important;
+}
+
+footer.footer-dark .footer-column .level-item .icon {
+    color: #f8b500;
+}
