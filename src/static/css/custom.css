@@ -11,6 +11,14 @@ html {
     background-color: rgba(248, 181, 0, 0.01);
 }
 
+.navbar-burger {
+    color: #f8b500;
+}
+
+.navbar-burger:hover {
+    color: #f8b500;
+}
+
 .button.primary-btn {
     background-color: #00adb5;
     border-color: #00adb5;
