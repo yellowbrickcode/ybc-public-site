@@ -17,7 +17,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from /images/___)
-    image: illustrations/worker.svg
+    image: illustrations/toto_sit_1.svg
     # Footer logos (from /images/logos/clients/___.svg)
     clientlogos:
     - systek
@@ -93,7 +93,7 @@ params:
       img: 3
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: Toto_sleep_1.svg
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
     - link: https://github.com/lucperkins/github-fresh
