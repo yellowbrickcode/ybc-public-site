@@ -54,3 +54,36 @@ footer.footer-dark .footer-column ul.link-list :hover {
 footer.footer-dark .footer-column .level-item .icon {
     color: #f8b500;
 }
+
+.card-title {
+    margin-bottom: 20px;
+}
+
+.card-text {
+    margin-bottom: 20px;
+}
+
+.card-action {
+    margin-bottom: 20px;
+}
+
+.feature-card .card-text {
+    padding: 0 15px;
+}
+
+.accent-link {
+    color: #fc3c3c !important;
+}
+
+.accent-link:hover {
+    text-shadow: 1px 1px 1px rgba(252, 60, 60, 0.3);
+    opacity: 0.8;
+}
+
+.feature-card {
+    height: 274px;
+}
+
+.feature-card sup {
+    color: #999;
+}

@@ -19,15 +19,10 @@ params:
     # Hero image (from /images/___)
     image: illustrations/toto_sit_1.svg
     # Footer logos (from /images/logos/clients/___.svg)
-    clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
+    
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Service
+  - title: Services
     url: /
   - title: Blog
     url: /
@@ -37,8 +32,8 @@ params:
     url: /
     button: true
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: Blog
+    subtitle: Latest posts
     tiles:
     - title: App builder
       icon: mouse-globe
