@@ -2,3 +2,7 @@
     max-height: 50px!important;
     height: 50px;
 }
+
+footer.footer-dark .footer-logo img {
+    height: 60px;
+}
