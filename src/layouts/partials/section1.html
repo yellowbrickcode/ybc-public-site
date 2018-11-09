@@ -25,19 +25,18 @@
             <div class="card-text">
               <p>{{ .Description }}</p>
             </div>
-            <div class="card-action">
-                <a href="{{ .URL }}" class="accent-link">Continue reading ></a>
-            </div>
-            <sup>
+            <div class="has-text-right">
+              <sup>
                 Published {{ dateFormat "2 January 2006" .PublishDate }}
-            </sup>
+              </sup>
+            </div>
           </div>
         </div>
         {{- end }}
       </div>
       <div class="columns blog-section-footer">
         <div class="column is-12 is-center has-text-centered">
-            <a href="/blog" class="button accent-btn is-rounded btn-align-md raised">See all posts</a>
+            <a href="/blog" class="button primary-btn cta rounded cta btn-align-md raised">See all posts</a>
         </div>
       </div>
     </div>

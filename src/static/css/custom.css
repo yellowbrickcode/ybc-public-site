@@ -65,6 +65,7 @@ footer.footer-dark .footer-column .level-item .icon {
 
 .card-title {
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .card-text {
@@ -89,9 +90,16 @@ footer.footer-dark .footer-column .level-item .icon {
 }
 
 .feature-card {
-    height: 274px;
+    height: 250px;
+    padding: 0 20px;
+    width: 350px;
 }
 
 .feature-card sup {
     color: #999;
+    margin-right: 2em;
+}
+
+.blog-section-footer {
+    margin-top: 2em;
 }
