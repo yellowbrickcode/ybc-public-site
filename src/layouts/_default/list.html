@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ partial "hero.html" . }}
 {{ .Content }}
-{{ partial "post-list.html" .}}
+{{ partial "post-list.html" . }}
+{{ partial "footer.html" . }}
 {{ end }}
