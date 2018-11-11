@@ -117,16 +117,16 @@ footer.footer-dark .footer-column .level-item .icon {
     padding-top: 0;
 }
 
-.section-blog p {
+.section-pt-0 p {
     padding: 1em 0 !important;
 }
 
-.section-blog a {
+.section-pt-0 a {
     color: #00adb5;
     font-weight: 700;
 }
 
-.section-blog a:hover {
+.section-pt-0 a:hover {
     text-decoration: underline;
 }
 
@@ -165,10 +165,6 @@ footer.footer-dark .footer-column .level-item .icon {
     z-index: 1;
     bottom: 80px;
     right: 20px;
-}
-
-.service-card p {
-    padding: 1em 0 !important; 
 }
 
 .service-card i {
