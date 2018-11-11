@@ -22,4 +22,6 @@ I still avoid certain situations. If I'm in an environment at work where things 
 
 I'll leave you with a mindfulness exercise I was introduced to recently that I really loved, called "The Mountain". Give it a try & enjoy!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QMCIR-e9D5Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="aspect-ratio">
+    <iframe src="https://www.youtube.com/embed/QMCIR-e9D5Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
