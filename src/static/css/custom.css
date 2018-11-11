@@ -144,3 +144,25 @@ footer.footer-dark .footer-column .level-item .icon {
   left: 0; 
   top: 0;
 }
+
+.testimonial blockquote:before, .testimonial blockquote:after {
+    content: "";
+}
+
+.testimonial i.top {
+    position: absolute;
+    font-size: 20px;
+    opacity: 0.3;
+    z-index: 1;
+    top: 35px;
+    left: 20px;
+}
+
+.testimonial i.bottom {
+    position: absolute;
+    font-size: 20px;
+    opacity: 0.3;
+    z-index: 1;
+    bottom: 80px;
+    right: 20px;
+}
