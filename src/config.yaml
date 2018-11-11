@@ -102,29 +102,21 @@ params:
       icon: dev
     bulmalogo: false
     product:
-    - text: Discover features
-      link: /
-    - text: Why choose our product?
-      link: /
-    - text: Compare features
-      link: /
-    - text: Our roadmap
-      link: /
-    - text: Request features
-      link: /
+    - text: Architecture
+      link: /services#architecture
+    - text: Development
+      link: /services#development
+    - text: Culture
+      link: /services#culture
     docs:
-    - text: Get started
-      link: /
-    - text: User guides
-      link: /
-    - text: Admin guide
-      link: /
-    - text: Developers
-      link: /
+    - text: People
+      link: /about#people
+    - text: Brains
+      link: /about#brains
+    - text: Heart
+      link: /about#heart
+    - text: Courage
+      link: /about#courage
     blogroll:
-    - text: Latest news
-      link: /
-    - text: Tech articles
-      link: /
-    - text: Video blog
-      link: /
+    - text: Latest posts
+      link: /blog
