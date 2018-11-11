@@ -108,12 +108,12 @@ footer.footer-dark .footer-column .level-item .icon {
     margin-top: 2em;
 }
 
-.blog-title-wrapper {
+.wide-title-wrapper {
     padding-top: 5rem;
     max-width: 800px;
 }
 
-.section-blog {
+.section-pt-0 {
     padding-top: 0;
 }
 
@@ -165,4 +165,17 @@ footer.footer-dark .footer-column .level-item .icon {
     z-index: 1;
     bottom: 80px;
     right: 20px;
+}
+
+.service-card p {
+    padding: 1em 0 !important; 
+}
+
+.service-card i {
+    color: #f8b500;
+    display: inline;
+    margin-right: 1em;
+    margin-left: 1em;
+    font-size: 1.2em;
+    line-height: 2em;
 }

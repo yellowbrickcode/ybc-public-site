@@ -1,8 +1,5 @@
 {{- $hero       := .Site.Params.hero }}
-{{- $title      := index $hero "title" }}
-{{- $subtitle   := index $hero "subtitle" }}
-{{- $buttonText := index $hero "buttontext" }}
-{{- $buttonLink := index $hero "buttonlink" }}
+{{- $buttonLink := $.Param "hero_button_link" }}
 {{- $image      := index $hero "image" }}
 <div class="hero-body">
   <div class="container">
