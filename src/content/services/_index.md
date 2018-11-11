@@ -84,5 +84,13 @@ draft: false
         <i class="fas fa-brain"></i> Advising on how to change your structure and culture to attract new employees
         <br/>
         <i class="fas fa-code-branch"></i> Helping you implement changes
+        <br/>
+        <i class="fas fa-building"></i> Helping you implement CI & CD 
+        <br/>
+        <i class="fas fa-chalkboard-teacher"></i> Mentoring your developers
+        <br/>
+        <i class="fas fa-list"></i> Advising on training plans
+        <br/>
+        <i class="fas fa-globe-americas"></i> Helping you manage an outsourced development team
     </p>
 </div>
