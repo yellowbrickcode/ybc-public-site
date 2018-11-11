@@ -18,5 +18,3 @@ This, so much this! I think this is something you don’t tend to recognise earl
 In my current job, I really think we’re getting this right so far and I’m going to keep working at it to keep it that way. We’re building an amazing culture and team and I’m pretty damn proud of what we’re doing. 
 
 So for the developers reading this, remember, a software development team is definitely a stakeholder in the product they are developing. Sometimes we have to stand up for something for the good of the product and help make the other stakeholders understand why it’s important. We are in these positions because we understand the technical implications and because we’re good at what we do. If you sit back and let things go, you’re going to end up working in a mess of code that’s definitely not fun to work on and is challenging for all the wrong reasons!
-
-<sup>Cover photo by sydney Rae on Unsplash</sup>

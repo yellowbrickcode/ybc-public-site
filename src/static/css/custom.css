@@ -11,6 +11,10 @@ html {
     background-color: rgba(248, 181, 0, 0.01);
 }
 
+code {
+    color: #fc3c3c;
+}
+
 .navbar-burger {
     color: #f8b500;
 }
@@ -102,4 +106,26 @@ footer.footer-dark .footer-column .level-item .icon {
 
 .blog-section-footer {
     margin-top: 2em;
+}
+
+.blog-title-wrapper {
+    padding-top: 5rem;
+    max-width: 800px;
+}
+
+.section-blog {
+    padding-top: 0;
+}
+
+.section-blog p {
+    padding: 1em 0 !important;
+}
+
+.section-blog a {
+    color: #00adb5;
+    font-weight: 700;
+}
+
+.section-blog a:hover {
+    text-decoration: underline;
 }

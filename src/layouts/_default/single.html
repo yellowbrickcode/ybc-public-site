@@ -1,0 +1,5 @@
+{{ define "main" }}
+{{ if eq .Type "blog" }}
+{{ partial "blog-post.html" . }}
+{{ end }}
+{{ end }}

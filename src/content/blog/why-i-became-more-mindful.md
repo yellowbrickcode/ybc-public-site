@@ -6,7 +6,6 @@ publishdate: 2018-10-10T00:00:00+00:00
 draft: false
 image: "milan-popovic-674483-unsplash.jpg"
 ---
-# Why I Became More Mindful
 In honour of World Mental Health Day, I wanted to share some of my experiences with mindfulness and what set me on the path to feeling that it was something I needed to try.
 
 A few years back, I got hit with a dreaded case of imposter syndrome, which eventually led to anxiety and mild panic attacks. Suddenly, things that I'd had no problem with before, like getting up in front of a room of my peers and talking about the subjects that I love to talk about, became terrifying and I actively started avoiding it. More than that though, I started avoiding anything that would require me to speak in a group. I would stay quiet in meetings, even if I had something I wanted to contribute. When I wanted to leave my job, I was scared to do interviews (another thing I had previously had no problem with) or technical tests, my impostor syndrome telling me I wasn't good enough to pass the tests and would be found out as a fraud. As you can probably tell, it was a pretty crappy time! The anxiety started creeping into other areas of my life beyond work too, which coupled with already existing insomnia, became a lot to handle. 
@@ -24,5 +23,3 @@ I still avoid certain situations. If I'm in an environment at work where things 
 I'll leave you with a mindfulness exercise I was introduced to recently that I really loved, called "The Mountain". Give it a try & enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QMCIR-e9D5Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br/>
-<sup>Cover photo by [Milan Popovic](https://unsplash.com/photos/Zf0-90SpDD0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/mindfulness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</sup>

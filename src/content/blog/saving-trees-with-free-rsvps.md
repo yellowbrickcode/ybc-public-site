@@ -14,7 +14,7 @@ I've used [KnockoutJS](http://knockoutjs.com) a lot in the past and I knew this 
 
 The RSVP page is pretty straightforward. I ask if they're a day or evening guest, then I ask for their email address and for that person to fill in the RSVP for their whole party. They then enter details for each guest in their party, answering some simple questions like are they attending, are they vegetarian, what's their favourite song. If they're a day guest, I also ask if they're interested in staying in a room at the venue. Knockout really helps with this conditional logic and also dynamically adding guests. 
 
-![alt](/content/images/2017/09/2017-09-29-09_10_54-RSVP---Sarah---Katy-s-Wedding.png#img-responsive)
+![alt](/images/posts/2017-09-29-09_10_54-RSVP---Sarah---Katy-s-Wedding.png)
 
 The bulk of the logic is in my view model which you can see here https://github.com/yellowbrickcode/wedding-web/blob/master/resources/scripts/ViewModel.js. All of the website code [is on GitHub](https://github.com/yellowbrickcode/wedding-web). Remember I did it in a weekend and my requirements were speed of development over perfect code, so don't judge me too harshly! <i class="icon-grin"></i>
 
