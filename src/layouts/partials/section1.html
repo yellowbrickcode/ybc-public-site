@@ -26,7 +26,11 @@
               <p>{{ .Description }}</p>
             </div>
             <div class="has-text-right">
+              {{ if eq .ReadingTime 0 }}
+              <sup>< 1 minute read</sup>
+              {{else}}
               <sup>{{ .ReadingTime }} minute read</sup>
+              {{ end }}
             </div>
           </div>
         </div>

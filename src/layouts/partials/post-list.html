@@ -1,7 +1,7 @@
 <section class="section section-feature-grey is-medium">
     <div class="container">
       <div class="content-wrapper">
-        <div class="columns">
+        <div class="columns is-multiline">
           {{- range where .Pages.ByPublishDate.Reverse "Section" "blog"}}
           <div class="column is-one-third">
             <div class="feature-card is-bordered has-text-centered revealOnScroll delay-1" data-animation="fadeInLeft">
@@ -16,7 +16,11 @@
                 <p>{{ .Description }}</p>
               </div>
               <div class="has-text-right">
+                {{ if eq .ReadingTime 0 }}
+                <sup>1 minute read</sup>
+                {{else}}
                 <sup>{{ .ReadingTime }} minute read</sup>
+                {{ end }}
               </div>
             </div>
           </div>
