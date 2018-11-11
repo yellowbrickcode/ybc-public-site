@@ -91,18 +91,16 @@ params:
     logo: Toto_sleep_1.svg
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
+    - link: https://github.com/yellowbrickcode
       # Icons are from Font Awesome
       icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+    - link: https://facebook.com/yellowbrickcodeltd
       icon: facebook
-    - link: https://twitter.com/lucperkins
+    - link: https://twitter.com/ff0brickcode
       icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
-    bulmalogo: true
+    - link: https://dev.to/yellowbrickcode
+      icon: dev
+    bulmalogo: false
     product:
     - text: Discover features
       link: /
