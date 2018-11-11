@@ -23,13 +23,13 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Services
-    url: /
+    url: /services
   - title: Blog
     url: /blog
   - title: About
-    url: /
+    url: /about
   - title: Let's Talk
-    url: /
+    url: /contact
     button: true
   section1:
     title: Blog
@@ -51,18 +51,18 @@ params:
       url: /
       buttonText: Get started
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: We want you to be the best you can be
+    subtitle: Here are the highlights of how we can help
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Cloud first architecture
+      text: We're experienced with taking a cloud first approach to building architecture for enterprise level web applications
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Clean code
+      text: Having clean, well written code isn't just for the developers working on it. It allows for quicker iterations and helps make your application more resilient
       icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Building a forward thinking development culture
+      text: We can help you develop a progressive culture that developers will enjoy working in
       icon: mobile-feed
   section3:
     title: One platform
