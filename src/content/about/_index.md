@@ -1,6 +1,7 @@
 ---
 title: "A peek behind the curtain"
 description: "The brains, heart and courage behind why we do what we do"
+hero_image: "toto_sit_1.svg"
 date: 2018-11-11T22:08:42Z
 draft: false
 ---
