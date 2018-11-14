@@ -29,7 +29,7 @@ params:
   - title: About
     url: /about
   - title: Let's Talk
-    url: /contact
+    url: /#contact
     button: true
   section1:
     title: Blog
