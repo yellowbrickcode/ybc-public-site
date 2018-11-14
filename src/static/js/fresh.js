@@ -111,4 +111,60 @@ $(document).ready(function(){
             }
         }
     });
+
+    // Wire up contact form
+    $("#contact-button").on("click", function() {
+        var name = $("#contact-name").val();
+        var email = $("#contact-email").val();
+        var message = $("#contact-message").val();
+        var validationMessage = "";
+
+        if(!name) {
+            validationMessage = appendValidationMessage(validationMessage, "- Please enter your name so I know who's getting in touch");
+        }
+
+        if(!email) {
+            validationMessage = appendValidationMessage(validationMessage, "- Please enter an email address so I can reply");
+        } else if(!validateEmail(email)) {
+            validationMessage = appendValidationMessage(validationMessage, "- Your email address looks invalid. Double check it and try again");
+        }
+
+        if(!message) {
+            validationMessage = appendValidationMessage(validationMessage, "- Please enter a message so I know how to help");
+        }
+
+        if(validationMessage) {
+            $("#contact-validation").html(validationMessage).removeClass("is-hidden");
+        } else {
+            var contactData = {
+                name: name,
+                email: email,
+                message: message,
+                host: window.location.origin
+            };
+
+            $.post("https://hooks.zapier.com/hooks/catch/4057868/e0l6a0/", JSON.stringify(contactData)).done(function(result) {
+                $("#contact-form").addClass("is-hidden");
+                $("#contact-success").removeClass("is-hidden");
+                $("#contact-error").addClass("is-hidden");
+                $("#contact-validation").addClass("is-hidden");
+            }).error(function(result) {
+                $("#contact-error").removeClass("is-hidden");
+                $("#contact-validation").addClass("is-hidden");
+            });
+        }
+    });
+
+    function appendValidationMessage(content, message) {
+        if(content) {
+            content += "<br/>";
+        }
+        content += message;
+        return content;
+    }
+
+    function validateEmail(email) {
+        var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        return re.test(String(email).toLowerCase());
+    }
 })

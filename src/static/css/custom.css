@@ -42,6 +42,10 @@ code {
     background-color: #f8b500;
 }
 
+.has-text-danger {
+    color: #fc3c3c !important;
+}
+
 .navbar.is-fresh .navbar-item.is-secondary:hover {
     color: #f8b500 !important;
 }
