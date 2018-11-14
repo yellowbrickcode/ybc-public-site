@@ -12,7 +12,7 @@ draft: false
 </div>
 <div class="service-card mt-20">
     <p>
-        Building cloud native web applications allows you to build and scale efficiently and effectively. We believe the cloud is a powerful tool that can be leveraged for web applications of all sizes and any age. We are familiar with both Microsoft Azure and AWS product offerings.
+        Building cloud native web applications allows you to build and scale efficiently and effectively. We believe the cloud is a powerful tool that can be leveraged for web applications of all sizes and any age. We are familiar with both Microsoft Azure and AWS product offerings but would be happy to work with other cloud providers if needed.
     </p>
     <p>
         We can help with:
@@ -58,8 +58,9 @@ draft: false
         <i class="fab fa-js"></i> Javascript
         <br/>
         <i class="fab fa-microsoft"></i> Typescript
-        <br/>
-        SPA Frameworks. Including but not limited to:
+    </p>
+    <p>
+        Some of the JS frameworks we have experience with are:
         <br/>
         <i class="fab fa-vuejs"></i> Vue
         <br/>
@@ -92,6 +93,6 @@ draft: false
         <br/>
         <i class="fas fa-list"></i> Advising on training plans
         <br/>
-        <i class="fas fa-globe-americas"></i> Helping you manage an outsourced development team
+        <i class="fas fa-globe-americas"></i> Setup and/or management of an outsourced development team
     </p>
 </div>
