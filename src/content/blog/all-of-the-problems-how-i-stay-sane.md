@@ -5,6 +5,8 @@ date: 2018-11-14T23:16:43Z
 publishdate: 2017-03-31T23:16:43Z
 draft: false
 image: ""
+meta_title: "All of the Problems! How I Stay Sane"
+meta_description: "My advice on how to stay sane in a world of disorder"
 ---
 Most of my job as an architect in the early days of a product being developed lives in the realm of disorder. You're in the process of really getting to the heart of the problem that you're working to solve and as you define that, I need to analyse the options of how we can technically create these solutions. As I work through the problem, the picture becomes clearer and gradually, I'll get to the point where I have a solid plan and code is starting to be written to implement it. Sometimes other problems will get thrown up along the way. When that happens, I need to figure out where the new problems sit on the scale of "WTF?!" to "oh yeah no problem".
 

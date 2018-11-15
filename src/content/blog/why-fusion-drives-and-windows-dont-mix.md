@@ -5,6 +5,8 @@ date: 2018-11-11T11:56:53Z
 publishdate: 2017-07-22T11:56:53Z
 draft: false
 image: "coffee-1283672_1280.jpg"
+meta_title: "Why Fusion Drives and Windows Dont Mix"
+meta_description: "Figuring out why Bootcamp on a fusion drive was so slow"
 ---
 My machine at work is a late 2015 model iMac, bought in August 2016. It's got a decent spec. The main bits, 3.3GHz i7 processor, 16GB RAM and 1TB Fusion Drive. That should definitely cover my requirements for development work, shouldn't it?
 

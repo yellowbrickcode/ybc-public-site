@@ -5,6 +5,8 @@ date: 2018-11-07T22:28:17Z
 publishdate: 2018-01-05T22:28:17Z
 draft: false
 image: "tree-oak-landscape.jpeg"
+meta_title: "Saving Trees With Free RSVP's"
+meta_description: "Of course, as a developer, I couldn't just use paper for my RSVP's! So I built something instead"
 ---
 I got married in November 2017 and when planning the invites, we decided we didn't want to send out half a tree to each guest and decided to use our skills to make a website instead (my wife is a designer). The website has all the information about the venue, the day, the accommodation and a page for our guests to send their RSVP. As well as the reduction in paper, we felt our guests were more likely to RSVP quickly if they didn't have to physically post the RSVP back to us so it helps everyone out. We were very conscious not to go overboard on the site. We didn't want to spend months on it! It's a simple design with a simple implementation.
 

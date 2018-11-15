@@ -2,6 +2,8 @@
 title: "A look behind the curtain"
 description: "The brains, heart and courage behind why we do what we do"
 hero_image: "toto_about.svg"
+meta_title: "About Yellow Brick Code"
+meta_description: "A look behind the curtain. The brains, heart and courage behind why we do what we do"
 date: 2018-11-11T22:08:42Z
 draft: false
 ---

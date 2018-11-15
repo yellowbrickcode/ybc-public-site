@@ -5,6 +5,8 @@ date: 2018-11-07T22:19:31Z
 publishdate: 2018-01-25T22:19:31Z
 draft: false
 image: "you-got-this.jpeg"
+meta_title: "Fight For The Architecture"
+meta_description: "Inspired by the book 'Clean Architecture', my thoughts on why developers are stakeholders too"
 ---
 I’m currently reading [Clean Architecture by Uncle Bob](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164). I’m still pretty early on in the book, but I just read a section that made me need to put it down and write this post!
 
