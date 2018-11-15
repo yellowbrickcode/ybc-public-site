@@ -3,7 +3,7 @@ title: "Why I Became More Mindful"
 description: "In honour of World Mental Health Day, I wanted to share some of my experiences with mindfulness"
 date: 2018-11-07T21:57:31+01:00
 publishdate: 2018-10-10T00:00:00+00:00
-draft: false
+draft: true
 image: "milan-popovic-674483-unsplash.jpg"
 ---
 In honour of World Mental Health Day, I wanted to share some of my experiences with mindfulness and what set me on the path to feeling that it was something I needed to try.
