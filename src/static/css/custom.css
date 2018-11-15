@@ -179,3 +179,36 @@ footer.footer-dark .footer-column .level-item .icon {
     font-size: 1.2em;
     line-height: 2em;
 }
+
+strong {
+    color: #fc3c3c !important;
+}
+
+code .number {
+    align-items: inherit;
+    background-color: transparent;
+    border-radius: 0;
+    display: inherit;
+    font-size: inherit;
+    height: inherit;
+    justify-content: inherit;
+    margin-right: 0;
+    min-width: 0;
+    padding: 0 0;
+    text-align: inherit;
+    vertical-align: inherit;
+}
+
+pre {
+    max-height: 500px;
+}
+
+ul li::before {
+  content: "\0023";
+  color: #fc3c3c;
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1.6em;
+  display: inline-block;
+  width: 1em;
+}
