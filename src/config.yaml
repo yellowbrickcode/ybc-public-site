@@ -2,6 +2,7 @@ baseURL: https://www.yellowbrickcode.co.uk/
 languageCode: en-us
 title: Yellow Brick Code
 theme: hugo-fresh
+enableRobotsTXT: true
 
 params:
   font:
