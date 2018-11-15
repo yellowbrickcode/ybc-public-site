@@ -112,6 +112,11 @@ $(document).ready(function(){
         }
     });
 
+    // Set prism defaults
+    Prism.plugins.NormalizeWhitespace.setDefaults({
+        "remove-initial-line-feed": true
+    });
+
     // Wire up contact form
     $("#contact-button").on("click", function() {
         var name = $("#contact-name").val();
