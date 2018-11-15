@@ -1,6 +1,6 @@
 ---
 title: "Fight For The Architecture"
-description: "Inspired by the book 'Clean Architecture', my thoughts on why developers are stakeholders too"
+description: "Inspired by 'Clean Architecture', my thoughts on why developers are stakeholders too"
 date: 2018-11-07T22:19:31Z
 publishdate: 2018-01-25T22:19:31Z
 draft: false

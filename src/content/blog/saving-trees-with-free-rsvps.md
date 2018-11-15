@@ -1,6 +1,6 @@
 ---
 title: "Saving Trees With Free RSVP's"
-description: "Of course, as a developer, I couldn't just use paper for my RSVP's! So I built something instead"
+description: "As a developer, I couldn't just use paper for my RSVP's!"
 date: 2018-11-07T22:28:17Z
 publishdate: 2018-01-05T22:28:17Z
 draft: false

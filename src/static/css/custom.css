@@ -16,11 +16,11 @@ code {
 }
 
 .navbar-burger {
-    color: #f8b500;
+    color: #00adb5;
 }
 
 .navbar-burger:hover {
-    color: #f8b500;
+    color: #00adb5;
 }
 
 .button.primary-btn {
@@ -100,7 +100,6 @@ footer.footer-dark .footer-column .level-item .icon {
 .feature-card {
     height: 250px;
     padding: 0 20px;
-    width: 350px;
 }
 
 .feature-card sup {
