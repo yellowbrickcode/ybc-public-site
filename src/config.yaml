@@ -4,6 +4,9 @@ title: Yellow Brick Code
 theme: hugo-fresh
 enableRobotsTXT: true
 
+permalinks:
+  blog: /:title
+
 params:
   font:
     name: "Open Sans"
