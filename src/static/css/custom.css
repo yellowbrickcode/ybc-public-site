@@ -203,7 +203,7 @@ pre {
     max-height: 500px;
 }
 
-ul li::before {
+.blog-post ul li::before {
   content: "\0023";
   color: #fc3c3c;
   font-weight: bold;
