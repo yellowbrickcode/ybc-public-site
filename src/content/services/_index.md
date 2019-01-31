@@ -1,9 +1,9 @@
 ---
-title: "We can be there to help"
+title: "We are here to help"
 description: "We offer a range of services, no heel clicking required"
 hero_image: "toto_services.svg"
 meta_title: "Our Services"
-meta_description: "We can be there to help. We offer a range of services, no heel clicking required"
+meta_description: "We are here to help. We offer a range of services, no heel clicking required"
 date: 2018-11-11T20:47:30Z
 draft: false
 ---
