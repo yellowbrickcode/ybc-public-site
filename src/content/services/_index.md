@@ -33,6 +33,10 @@ draft: false
         <br/>
         <i class="fas fa-globe-americas"></i> Assist with setup of an outsourced development team
     </p>
+    <p>
+        Talk to us by booking a call.
+    </p>
+    <a class="button cta rounded primary-btn raised" href="" onclick="Calendly.showPopupWidget('https://calendly.com/yellowbrickcode');return false;">Book a call</a>
 </div>
 <div class="title-wrapper wide-title-wrapper has-text-centered" id="architecture">
     <h2 class="title is-2">Architecture</h2>
@@ -54,6 +58,10 @@ draft: false
         <br/>
         <i class="fas fa-star"></i> Improving existing architecture
     </p>
+    <p>
+        Talk to us by booking a call.
+    </p>
+    <a class="button cta rounded primary-btn raised" href="" onclick="Calendly.showPopupWidget('https://calendly.com/yellowbrickcode');return false;">Book a call</a>
 </div>
 <div class="title-wrapper wide-title-wrapper has-text-centered" id="development">
   <h2 class="title is-2">Development</h2>
@@ -97,4 +105,8 @@ draft: false
         <br/>
         <i class="fab fa-js"></i> Knockout JS & Durandal
     </p>
+    <p>
+        Talk to us by booking a call.
+    </p>
+    <a class="button cta rounded primary-btn raised" href="" onclick="Calendly.showPopupWidget('https://calendly.com/yellowbrickcode');return false;">Book a call</a>
 </div>
