@@ -1,11 +1,16 @@
 <section class="section section-light-grey is-medium" id="contact">
+    <div class="container">
+        <div class="title-wrapper has-text-centered mb-40">
+          <h2 class="title is-2 is-spaced">Book a call with us</h2>
+          {{ partial "book-call.html" . }}
+        </div>
+  </div>
   <div class="container">
     <div class="title-wrapper has-text-centered">
-      <h2 class="title is-2 is-spaced">Drop us a line or two </h2>
+      <h2 class="title is-2 is-spaced">Or, drop us a line or two </h2>
       <h3 class="subtitle is-5 is-muted">We'd love to hear from you</h3>
       <div class="divider is-centered"></div>
     </div>
-
     <div class="content-wrapper">
       <div class="columns">
         <div class="column is-6 is-offset-3">
@@ -21,7 +26,7 @@
                 <textarea class="textarea" rows="10" placeholder="If you'd like to work with us, have some feedback, are looking for some advice or just want to chat, write your message here" id="contact-message"></textarea>
               </div>
               <div class="form-footer has-text-centered mt-10">
-                <button class="button cta is-large primary-btn raised is-clear" id="contact-button" type="button">Send Message</button>
+                <button class="button cta rounded is-large primary-btn raised is-clear" id="contact-button" type="button">Send Message</button>
               </div>
             </div>
           </form>
