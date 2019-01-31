@@ -7,6 +7,33 @@ meta_description: "We can be there to help. We offer a range of services, no hee
 date: 2018-11-11T20:47:30Z
 draft: false
 ---
+<div class="title-wrapper wide-title-wrapper has-text-centered" id="culture">
+  <h2 class="title is-2">Culture</h2>
+  <h3 class="subtitle is-5 is-muted">Encouraging forward thinking development teams</h3>
+  <div class="divider is-centered"></div>
+</div>
+<div class="service-card mt-20">
+    <p>
+        Every company wants their team of developers to be the best they can be. In a competitive market for hiring developers, we believe bringing the structure and culture of a development team up-to-date is a key factor in being an attractive place to work. 
+    </p>
+    <p>
+        We can help with:
+        <br/>
+        <i class="fas fa-search"></i> Reviewing your current team structure and culture
+        <br/>
+        <i class="fas fa-brain"></i> Advising on how to change your structure and culture to attract new employees
+        <br/>
+        <i class="fas fa-code-branch"></i> Helping you implement changes
+        <br/>
+        <i class="fas fa-building"></i> Helping you implement CI & CD 
+        <br/>
+        <i class="fas fa-chalkboard-teacher"></i> Mentoring your developers
+        <br/>
+        <i class="fas fa-list"></i> Advising on training plans
+        <br/>
+        <i class="fas fa-globe-americas"></i> Assist with setup of an outsourced development team
+    </p>
+</div>
 <div class="title-wrapper wide-title-wrapper has-text-centered" id="architecture">
     <h2 class="title is-2">Architecture</h2>
     <h3 class="subtitle is-5 is-muted">Specialising in cloud first architecture</h3>
@@ -69,32 +96,5 @@ draft: false
         <i class="fab fa-js"></i> Aurelia
         <br/>
         <i class="fab fa-js"></i> Knockout JS & Durandal
-    </p>
-</div>
-<div class="title-wrapper wide-title-wrapper has-text-centered" id="culture">
-  <h2 class="title is-2">Culture</h2>
-  <h3 class="subtitle is-5 is-muted">Encouraging forward thinking development teams</h3>
-  <div class="divider is-centered"></div>
-</div>
-<div class="service-card mt-20">
-    <p>
-        Every company wants their team of developers to be the best they can be. In a competitive market for hiring developers, we believe bringing the structure and culture of a development team up-to-date is a key factor in being an attractive place to work. 
-    </p>
-    <p>
-        We can help with:
-        <br/>
-        <i class="fas fa-search"></i> Reviewing your current team structure and culture
-        <br/>
-        <i class="fas fa-brain"></i> Advising on how to change your structure and culture to attract new employees
-        <br/>
-        <i class="fas fa-code-branch"></i> Helping you implement changes
-        <br/>
-        <i class="fas fa-building"></i> Helping you implement CI & CD 
-        <br/>
-        <i class="fas fa-chalkboard-teacher"></i> Mentoring your developers
-        <br/>
-        <i class="fas fa-list"></i> Advising on training plans
-        <br/>
-        <i class="fas fa-globe-americas"></i> Setup and/or management of an outsourced development team
     </p>
 </div>

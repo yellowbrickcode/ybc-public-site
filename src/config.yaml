@@ -106,12 +106,12 @@ params:
       icon: dev
     bulmalogo: false
     product:
+    - text: Culture
+      link: /services#culture
     - text: Architecture
       link: /services#architecture
     - text: Development
       link: /services#development
-    - text: Culture
-      link: /services#culture
     docs:
     - text: People
       link: /about#people
