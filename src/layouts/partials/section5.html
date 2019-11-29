@@ -1,9 +1,9 @@
 <section class="section section-light-grey is-medium" id="contact">
-    <div class="container">
-        <div class="title-wrapper has-text-centered mb-40">
-          <h2 class="title is-2 is-spaced">Book a call with us</h2>
-          {{ partial "book-call.html" . }}
-        </div>
+  <div class="container">
+    <div class="title-wrapper has-text-centered mb-40">
+      <h2 class="title is-2 is-spaced">Book a call with us</h2>
+      {{ partial "book-call.html" . }}
+    </div>
   </div>
   <div class="container">
     <div class="title-wrapper has-text-centered">
@@ -14,25 +14,29 @@
     <div class="content-wrapper">
       <div class="columns">
         <div class="column is-6 is-offset-3">
-          <form id="contact-form">
+          <form id="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bo-t-hone-y-p-ot">
+
+            <input class="is-hidden" name="bo-t-hone-y-p-ot" />
+
             <div class="columns is-multiline">
               <div class="column is-6">
-                <input class="input is-medium" type="text" placeholder="Your name" id="contact-name">
+                <input class="input is-medium" type="text" name="name" placeholder="Your name" id="contact-name" />
               </div>
               <div class="column is-6">
-                <input class="input is-medium" type="email" placeholder="Your email address" id="contact-email">
+                <input class="input is-medium" type="email" name="email" placeholder="Your email address"
+                  id="contact-email">
               </div>
               <div class="column is-12">
-                <textarea class="textarea" rows="10" placeholder="If you'd like to work with us, have some feedback, are looking for some advice or just want to chat, write your message here" id="contact-message"></textarea>
+                <textarea class="textarea" name="message" rows="10"
+                  placeholder="If you'd like to work with us, have some feedback, are looking for some advice or just want to chat, write your message here"
+                  id="contact-message"></textarea>
               </div>
               <div class="form-footer has-text-centered mt-10">
-                <button class="button cta rounded is-large primary-btn raised is-clear" id="contact-button" type="button">Send Message</button>
+                <button class="button cta rounded is-large primary-btn raised is-clear" id="contact-button"
+                  type="submit">Send Message</button>
               </div>
             </div>
           </form>
-          <p class="subtitle is-muted is-centered is-hidden" id="contact-success">Thanks, your message has been sent. We'll be in touch soon.</p>
-          <p class="mt-40 has-text-danger is-hidden" id="contact-validation"></p>
-          <p class="mt-40 has-text-danger is-hidden" id="contact-error">Oops! Something went wrong and the message didn't send. Try again and if it continues, please get in touch using Twitter or Facebook to let us know.</p>
         </div>
       </div>
     </div>
