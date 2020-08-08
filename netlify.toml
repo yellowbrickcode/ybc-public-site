@@ -1,8 +1,4 @@
 [build]
 base = "src"
-
-[context.production.environment]
-HUGO_VERSION = "0.47.1"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.47.1"
+command = "yarn build && yarn export"
+publish = "src/out"

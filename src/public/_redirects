@@ -1,0 +1,6 @@
+# Netlify redirects from what the browser request to what it will serve
+/fight-for-the-architecture/                    /posts/fight-for-the-architecture/
+/saving-trees-with-free-rsvps/                  /posts/saving-trees-with-free-rsvps/
+/why-fusion-drives-and-windows-dont-mix/        /posts/why-fusion-drives-and-windows-dont-mix/
+/all-of-the-problems-how-i-stay-sane/           /posts/all-of-the-problems-how-i-stay-sane/
+/using-the-state-pattern-to-improve-branching/  /posts/using-the-state-pattern-to-improve-branching/
