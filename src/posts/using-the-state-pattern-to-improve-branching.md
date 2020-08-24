@@ -3,7 +3,7 @@ title: 'Using the State Pattern to Improve Branching'
 description: 'A neat pattern to avoid a tangle of if/else logic'
 date: '2016-12-16'
 draft: false
-image: ''
+image: '/images/posts/complicated-switches.jpg'
 ---
 
 When dealing with an object that has state, it's easy to get yourself into a tangle of `if/else` branches of logic. When I refer to "improving" in the title, what I suppose I'm really referring to is making your code more object oriented, and therefore ending up with easier to understand code. This isn't just about writing better code though, it's about having a better understanding of the functionality you are trying to achieve by writing the code.

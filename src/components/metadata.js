@@ -6,12 +6,14 @@ export default function Metadata({ title, description, image }) {
   const pageDescription =
     description ?? 'Coding and stories and thoughts, oh my!';
   const [href, setHref] = useState('');
-  const [origin, setOrigin] = useState('');
 
   useEffect(() => {
     setHref(window.location.href);
-    setOrigin(window.location.origin);
   });
+
+  const metaImage = image ? (
+    <meta name="og:image" content={`${image}`}></meta>
+  ) : null;
 
   return (
     <Head>
@@ -20,10 +22,7 @@ export default function Metadata({ title, description, image }) {
       <meta property="og:url" content={href}></meta>
       <meta property="og:title" content={pageTitle}></meta>
       <meta property="og:description" content={pageDescription}></meta>
-      <meta
-        name="og:image"
-        content={`${origin}${image}` ?? `${origin}/images/posts/default.png`}
-      ></meta>
+      {metaImage}
       <meta property="og:type" content="website"></meta>
       <meta name="msapplication-TileColor" content="#ffffff"></meta>
       <meta

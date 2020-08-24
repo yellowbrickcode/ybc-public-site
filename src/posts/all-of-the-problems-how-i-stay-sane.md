@@ -1,9 +1,9 @@
 ---
-title: 'All of the Problems! How I Stay Sane'
-description: 'My advice on how to stay sane in a world of disorder'
+title: 'All of the Problems! How I Stay Centered'
+description: 'My advice on how to stay calm in a world of disorder'
 date: '2017-03-31'
 draft: false
-image: ''
+image: '/images/posts/calm-breathe.jpg'
 ---
 
 Most of my job as an architect in the early days of a product being developed lives in the realm of disorder. You're in the process of really getting to the heart of the problem that you're working to solve and as you define that, I need to analyse the options of how we can technically create these solutions. As I work through the problem, the picture becomes clearer and gradually, I'll get to the point where I have a solid plan and code is starting to be written to implement it. Sometimes other problems will get thrown up along the way. When that happens, I need to figure out where the new problems sit on the scale of "WTF?!" to "oh yeah no problem".
@@ -27,4 +27,4 @@ A problem can start in any domain. Sometimes a problem will come up that will go
 
 I personally think the framework can be useful in lots of applications. It's definitely not just useful for new startups or new projects. It could be helpful even in well established software projects. I don't believe it's usefulness is limited to the technical world either.
 
-So using this framework is how I stay sane in a world of disorder. I don't panic, I categorise the problem and that helps me stay calm. When I look at a problem and have no idea how to solve it, I know it's fine because it's not in the simple domain yet. I just need to work on it until it gets there.
+So using this framework is how I stay calm in a world of disorder. I don't panic, I categorise the problem and that helps me stay calm. When I look at a problem and have no idea how to solve it, I know it's fine because it's not in the simple domain yet. I just need to work on it until it gets there.
